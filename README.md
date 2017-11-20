@@ -4,7 +4,7 @@
 
 **gemset:** bouquiniste
 
-**time to perform** 3 hours
+**time to perform:** 3 hours
 
 ## How to start application for developing
 
@@ -54,5 +54,7 @@ rails test
 
 ## Tasks
 
-* Create a show action in a BookController and a test for it.
-* Fill view for an index action with list of books and add simple styles for it.
+* Create a show action in a BookController
+* Add tests for show action
+* Fill view for an index action - create list of books 
+* Add simple css styles for index action
