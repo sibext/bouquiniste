@@ -58,3 +58,5 @@ rails test
 * Add tests for show action
 * Fill view for an index action - create list of books 
 * Add simple css styles for index action
+
+_Send completed tasks to **ruby@sibext.com**_
