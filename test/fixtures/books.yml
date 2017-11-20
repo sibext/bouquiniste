@@ -1,0 +1,20 @@
+book1:
+  id: 1
+  title: Harry Potter and the Philosopher's Stone
+  author: Joanne Kathleen Rowling
+  desc: ...
+book2:
+  id: 2
+  title: Harry Potter and the Chamber of Secrets
+  author: Joanne Kathleen Rowling
+  desc: ...
+book3:
+  id: 3
+  title: Harry Potter and the Prisoner of Azkaban
+  author: Joanne Kathleen Rowling
+  desc: ...
+books4:
+  id: 4
+  title: Harry Potter and the Goblet of Fire
+  author: Joanne Kathleen Rowling
+  desc: ...
